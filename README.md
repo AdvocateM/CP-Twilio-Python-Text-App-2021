@@ -6,7 +6,7 @@ With a free Twilio account, you only get to text verified numbers.
 
 1. Create a Github account.
 2. Star this at the top right!
-3. Create an account on Twilio.
+3. Create an account on Twilio here www.twilio.com/referral/iJAIWS
 4. Verify a Phone Number on Twilio https://www.twilio.com/console/phone-numbers/verified. That you would like to text.
 5. Get Twilio Credentials
  https://www.twilio.com/console
